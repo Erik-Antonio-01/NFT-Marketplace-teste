@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-10-16T15:18:46.997Z",
+  "lighthouse": "12.8.2",
+  "runs": 3,
+  "results": [
+    {
+      "route": "home",
+      "profile": "desktop",
+      "performance": 99,
+      "accessibility": 96,
+      "bestPractices": 100,
+      "seo": 92,
+      "lcp": 810.9100000000001,
+      "cls": 0,
+      "tbt": 0
+    },
+    {
+      "route": "detail",
+      "profile": "desktop",
+      "performance": 96,
+      "accessibility": 96,
+      "bestPractices": 100,
+      "seo": 92,
+      "lcp": 707.894,
+      "cls": 0.1193050682261209,
+      "tbt": 0
+    },
+    {
+      "route": "home",
+      "profile": "mobile",
+      "performance": 90,
+      "accessibility": 96,
+      "bestPractices": 100,
+      "seo": 92,
+      "lcp": 3190.6665,
+      "cls": 0,
+      "tbt": 15
+    },
+    {
+      "route": "detail",
+      "profile": "mobile",
+      "performance": 91,
+      "accessibility": 96,
+      "bestPractices": 100,
+      "seo": 92,
+      "lcp": 3081.2960000000003,
+      "cls": 0,
+      "tbt": 11.5
+    }
+  ]
+}

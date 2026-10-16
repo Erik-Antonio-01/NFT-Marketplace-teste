@@ -1,0 +1,11 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+audit-reports/
+.env.local
+*.log
+.DS_Store
+artifacts-home-*.png
+figma-thumbnail.png
+tsconfig.tsbuildinfo
